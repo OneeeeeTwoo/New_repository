@@ -4,6 +4,7 @@ int main()
 {
 	setlocale(LC_ALL, "Russian");
 	double sum = 0, a[10], kol = 0;
+	cout << "Go away and don't touch me" << endl;
 	cout << "HELLO!!!" << endl;
 	cout << "GOODBYE!!!" << endl;
 }
